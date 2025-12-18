@@ -7,13 +7,13 @@ DOI: [https://doi.org/10.1101/2025.03.25.25324613]
 
 ---
 
-## 📄 Summary
+## Summary
 
 This study evaluates the impact of the MMR vaccination strategies on measles transmission in Texas during the 2025 outbreak. Using a stochastic age-structured SEIR-HD model, we compare outbreak outcomes under different vaccine uptakes scenarios (baseline, 5% decrease, 5% increase).
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `gaines_case.csv`: Reported measles cases in Gaines County.
 - `United_States_subnational_Texas_M_overall_contact_matrix_85.csv`: Age-specific contact matrix for Texas.
@@ -26,3 +26,9 @@ This study evaluates the impact of the MMR vaccination strategies on measles tra
 - `map3_1.ipynb`: Simulation code for all counties under 5% improved vaccination scenario.
 - `README.md`: Project summary, instructions, and citation information.
 
+---
+
+## Conference
+
+### MIDAS 2025
+Folder MIDAS 2025 accompanies materials in speed talk and poster at the MIDAS 2025 annual symposium. 
