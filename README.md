@@ -36,5 +36,5 @@ data
 
 ## Conference
 
-### MIDAS 2025 [folder](https://github.com/bikaiming93/measles_model/tree/main/materials)
-Speed talk and poster at the MIDAS 2025 annual symposium. 
+### MIDAS 2025 
+Speed talk and poster at the MIDAS 2025 annual symposium. [more](https://github.com/bikaiming93/measles_model/tree/main/materials)
