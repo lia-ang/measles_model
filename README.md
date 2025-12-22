@@ -15,20 +15,26 @@ This study evaluates the impact of the MMR vaccination strategies on measles tra
 
 ## Repository Structure
 
-- `gaines_case.csv`: Reported measles cases in Gaines County.
-- `United_States_subnational_Texas_M_overall_contact_matrix_85.csv`: Age-specific contact matrix for Texas.
-- `county_baseline_0621.csv`: Simulation results for all Texas counties under the baseline scenario.
-- `county_high_0621.csv`: Simulation results for all Texas counties with a 5% reduction in vaccination coverage.
-- `county_low_0621.csv`: Simulation results for all Texas counties with a 5% improvement in vaccination coverage.
+- `README.md`: Project summary, instructions, and citation information.
+
+code
 - `Measles_Model_v5.ipynb`: Parameter estimation and scenario simulation code for Gaines County.
 - `map1_1.ipynb`: Simulation code for all counties under the baseline scenario.
 - `map2_1.ipynb`: Simulation code for all counties under 5% reduced vaccination scenario.
 - `map3_1.ipynb`: Simulation code for all counties under 5% improved vaccination scenario.
-- `README.md`: Project summary, instructions, and citation information.
+
+simulatiom
+- `county_baseline_0621.csv`: Simulation results for all Texas counties under the baseline scenario.
+- `county_high_0621.csv`: Simulation results for all Texas counties with a 5% reduction in vaccination coverage.
+- `county_low_0621.csv`: Simulation results for all Texas counties with a 5% improvement in vaccination coverage.
+
+data
+- `gaines_case.csv`: Reported measles cases in Gaines County.
+- `United_States_subnational_Texas_M_overall_contact_matrix_85.csv`: Age-specific contact matrix for Texas.
 
 ---
 
 ## Conference
 
 ### MIDAS 2025
-Folder MIDAS 2025 accompanies materials in speed talk and poster at the MIDAS 2025 annual symposium. 
+Folder materials accompanies materials in speed talk and poster at the MIDAS 2025 annual symposium. 
