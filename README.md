@@ -36,5 +36,5 @@ data
 
 ## Conference
 
-### MIDAS 2025
-Folder materials accompanies materials in speed talk and poster at the MIDAS 2025 annual symposium. 
+### MIDAS 2025 [folder](https://github.com/bikaiming93/measles_model/tree/main/materials)
+Speed talk and poster at the MIDAS 2025 annual symposium. 
