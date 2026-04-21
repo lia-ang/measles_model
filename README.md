@@ -1,6 +1,6 @@
-# Scenario-Based Modeling of 2025 Texas Measles Outbreaks
+# Scenario-Based Modeling of 2025-26 S.Carolina Measles Outbreaks
 
-This repository contains the code and data supporting the study:  
+This repository contains the code and data for the final project in BME4409 using code from the study:  
 **_“Assessing MMR Vaccination Strategies in Texas: A Scenario-Based Modeling Study of Measles Outbreaks”_**  
 Bi et al., 2025 
 DOI: [https://doi.org/10.1101/2025.03.25.25324613]
@@ -9,7 +9,7 @@ DOI: [https://doi.org/10.1101/2025.03.25.25324613]
 
 ## Summary
 
-This study evaluates the impact of the MMR vaccination strategies on measles transmission in Texas during the 2025 outbreak. Using a stochastic age-structured SEIR-HD model, we compare outbreak outcomes under different vaccine uptakes scenarios (baseline, 5% decrease, 5% increase).
+This study evaluates the impact of the MMR vaccination strategies on measles transmission during the 2025-26 outbreak. Using a stochastic age-structured SEIR-HD model, we compare outbreak outcomes under different vaccine uptakes scenarios and with herd immunity.
 
 ---
 
@@ -29,10 +29,3 @@ code
 data
 - `S.Carolina_case.csv`: Reported measles cases in S.Carolina.
 - `United_States_subnational_Texas_M_overall_contact_matrix_85.csv`: Age-specific contact matrix for Texas.
-
----
-
-## Conference
-
-### MIDAS 2025 
-Speed talk and poster at the MIDAS 2025 annual symposium. [more](https://github.com/bikaiming93/measles_model/tree/main/materials)
