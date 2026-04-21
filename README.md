@@ -18,18 +18,16 @@ This study evaluates the impact of the MMR vaccination strategies on measles tra
 - `README.md`: Project summary, instructions, and citation information.
 
 code
-- `Measles_Model_v5.ipynb`: Parameter estimation and scenario simulation code for Gaines County.
+- `Measles_Model_Finalized.ipynb`: Parameter estimation and scenario simulation code for S. Carolina.
+- `Measles_Model_Finalized_5-19Vaccination.ipynb`: Scenario simulation code for 5-19yr vaccinations.
+- `Measles_Model_Finalized_ChildhoodVaccination.ipynb`: Scenario simulation code for 0-4yr vaccinations.
+- `Measles_Model_Finalized_5-19Vaccination.ipynb`: Scenario simulation code for state-specific vaccination data in all age groups (Florida and S. Carolina).
 - `map1_1.ipynb`: Simulation code for all counties under the baseline scenario.
 - `map2_1.ipynb`: Simulation code for all counties under 5% reduced vaccination scenario.
 - `map3_1.ipynb`: Simulation code for all counties under 5% improved vaccination scenario.
 
-simulatiom
-- `county_baseline_0621.csv`: Simulation results for all Texas counties under the baseline scenario.
-- `county_high_0621.csv`: Simulation results for all Texas counties with a 5% reduction in vaccination coverage.
-- `county_low_0621.csv`: Simulation results for all Texas counties with a 5% improvement in vaccination coverage.
-
 data
-- `gaines_case.csv`: Reported measles cases in Gaines County.
+- `S.Carolina_case.csv`: Reported measles cases in S.Carolina.
 - `United_States_subnational_Texas_M_overall_contact_matrix_85.csv`: Age-specific contact matrix for Texas.
 
 ---
